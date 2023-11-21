@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Nov 21 18:27:28 2023
+# Process ID: 1288
+# Current directory: C:/Users/gafurov.NPO/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log CONV.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CONV.tcl -notrace
+# Log file: C:/Users/gafurov.NPO/project_1/project_1.runs/impl_1/CONV.vdi
+# Journal file: C:/Users/gafurov.NPO/project_1/project_1.runs/impl_1\vivado.jou
+# Running On: NEPT138, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 17082 MB
+#-----------------------------------------------------------
+source CONV.tcl -notrace

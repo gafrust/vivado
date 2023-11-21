@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gafurov.NPO/project_1/project_1.srcs/sources_1/new/conv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CONV
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gafurov.NPO/project_1/project_1.srcs/test/new/conv_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CONV_top
